@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/AlexNerru/Swift/iStocks/iStocksBack/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

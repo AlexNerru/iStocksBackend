@@ -1,0 +1,7 @@
+Packages
+.build
+xcuserdata
+DerivedData/
+.DS_Store
+.swiftpm
+db.sqlite

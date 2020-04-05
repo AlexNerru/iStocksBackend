@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/AlexNerru/Swift/iStocks/iStocksBack/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
